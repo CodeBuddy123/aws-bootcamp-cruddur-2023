@@ -16,3 +16,10 @@ The physical design phase involves determining the resource names and the relati
 Architecture Diagram
 
 The image below is the architecture of the micro blogging app Requirements
+
+*Application using micro services
+*The frontend is in JS and the backend is in Python
+*Using api to communicate
+*Authentication using Cognito
+*Use as much as possible the aws free tier
+*Momento as a third party caching system
