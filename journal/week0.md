@@ -23,3 +23,5 @@ The image below is the architecture of the micro blogging app Requirements
 *Authentication using Cognito
 *Use as much as possible the aws free tier
 *Momento as a third party caching system
+
+To view the chart please check the following link : https://lucid.app/lucidchart/b56ff1e4-9fec-4381-8021-c5273aaa5de5/edit?viewport_loc=-1145%2C-74%2C3525%2C1604%2C0_0&invitationId=inv_fe6d658b-5fd2-4d82-9563-4de685298ade
